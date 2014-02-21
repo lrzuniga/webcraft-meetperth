@@ -86,6 +86,7 @@ blockquote {
   text-align: center;
 }
 
+
 a {
 	padding: 15px 40px 15px 40px;
 	border: 2px solid #fff;
@@ -108,13 +109,15 @@ a {
 	margin-bottom: 3px;
 }
 
-.social {
-  
-}
-
 .beer {
   color: white;
   border-style: solid;
   border-color: white;
   margin: auto;
+}
+
+.social {
+  text-align: center;
+  background-color: #f4f4f4;
+  height: 300px;
 }
