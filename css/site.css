@@ -23,12 +23,22 @@
 	margin-bottom: -200px;
 }
 
+.spacer-after {
+	margin-bottom: 100px;
+}
+
 .spacer-content {
 	margin-top: 100px;
 }
 
 .heading-white {
 	color: #fff;
+}
+
+.tablet {
+	position: absolute;
+	right: -200px;
+	top: 0;
 }
 
 .logo-box {
