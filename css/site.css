@@ -13,6 +13,26 @@
 	background-color: #61c0e7;
 }
 
+.logo-box {
+	width: 90px;
+	height: 90px;
+	background-color: #fff;
+	padding-left: 30px;
+	padding-top: 23px;
+	-webkit-box-shadow: 10px 10px 0px 0px rgba(60,158,207,1);
+	-moz-box-shadow: 10px 10px 0px 0px rgba(60,158,207,1);
+	box-shadow: 10px 10px 0px 0px rgba(60,158,207,1);
+}
+
+.mobile-btn {
+	margin-top: 50%;
+}
+
+.mobile-container {
+	margin-top: 50%;
+
+}
+
 .longwind {
 	background-color: #f4f4f4;
 }
