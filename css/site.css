@@ -99,6 +99,11 @@ a {
 	color: #428d73;
 }
 
+.view-dribble {
+	border: 2px solid #ea4c89;
+	color: #ea4c89;
+}
+
 .icon {
 	margin-left: 5px;
 	margin-bottom: 3px;
