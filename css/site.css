@@ -61,9 +61,14 @@ blockquote {
 
 .likesee {
 	background-color: #13c4af;
+  height: 300px;
+  color: white;
+  text-align: center;
+  vertical-align: center;
 }
 
 .footer p {
   background-position: white;
   text-align: center;
 }
+
