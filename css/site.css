@@ -87,9 +87,16 @@ blockquote {
   vertical-align: center;
 }
 
+.footer {
+	margin-top: 75px;
+	margin-bottom: 60px;
+	background-color: #fff;
+}
+
 .footer p {
   background-position: white;
   text-align: center;
+  margin-top: 10px;
 }
 
 a {
@@ -140,7 +147,18 @@ a:hover {
 	margin-top: 75px;
 }
 
-.label {
-	font-weight: bold;
+.go-to-top {
+	margin-right: -135px;
+}
+
+label {
+	font-weight: bolder;
 	font-style: italic;
+	margin-right: 20px;
+}
+
+.email-input > a {
+	position: absolute;
+	right: 0;
+	top: 0;
 }
