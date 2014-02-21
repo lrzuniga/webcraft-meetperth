@@ -86,13 +86,15 @@ blockquote {
   text-align: center;
 }
 
-.social {
-  
-}
-
 .beer {
   color: white;
   border-style: solid;
   border-color: white;
   margin: auto;
+}
+
+.social {
+  text-align: center;
+  background-color: #f4f4f4;
+  height: 300px;
 }
