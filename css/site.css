@@ -120,11 +120,10 @@ a {
   border-color: white;
   margin: auto;
 }
-
 .social {
   text-align: center;
   background-color: #f4f4f4;
   height: 400px;
-  vertical-align: center;
-  
+  vertical-align: center; 
 }
+
