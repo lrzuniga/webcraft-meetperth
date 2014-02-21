@@ -81,7 +81,7 @@ blockquote {
 
 .likesee {
 	background-color: #13c4af;
-  height: 300px;
+  height: 375px;
   color: white;
   text-align: center;
   vertical-align: center;
@@ -91,7 +91,6 @@ blockquote {
   background-position: white;
   text-align: center;
 }
-
 
 a {
 	padding: 15px 40px 15px 40px;
@@ -129,7 +128,19 @@ a:hover {
 .social {
   text-align: center;
   background-color: #f4f4f4;
-  height: 400px;
+  height: 600px;
   vertical-align: center; 
 }
 
+.vert-align {
+	margin-top: 25%;
+}
+
+.subscription {
+	margin-top: 75px;
+}
+
+.label {
+	font-weight: bold;
+	font-style: italic;
+}
