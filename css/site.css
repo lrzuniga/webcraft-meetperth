@@ -86,6 +86,23 @@ blockquote {
   text-align: center;
 }
 
+a {
+	padding: 15px 40px 15px 40px;
+	border: 2px solid #fff;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.say-hello {
+	border: 2px solid #428d73;
+	color: #428d73;
+}
+
+.icon {
+	margin-left: 5px;
+	margin-bottom: 3px;
+}
+
 .social {
   
 }
