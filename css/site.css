@@ -41,6 +41,11 @@
 	top: 0;
 }
 
+.devices {
+	position: absolute;
+	left: -190px;
+}
+
 .logo-box {
 	width: 90px;
 	height: 90px;
