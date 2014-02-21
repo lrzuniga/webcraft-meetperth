@@ -7,10 +7,20 @@
 	padding: 0;
 	margin-top: 0;
 	margin-bottom: 0;
+	overflow: hidden;
 }
 
 .header {
 	background-color: #61c0e7;
+}
+
+.spacer-header {
+	margin-top: 50px;
+	margin-bottom: -200px;
+}
+
+.heading-white {
+	color: #fff;
 }
 
 .logo-box {
