@@ -43,7 +43,8 @@
 
 .devices {
 	position: absolute;
-	left: -190px;
+	left: -400px;
+	top: 50px;
 }
 
 .logo-box {
@@ -97,6 +98,11 @@ a {
 	border: 2px solid #fff;
 	text-transform: uppercase;
 	color: #fff;
+}
+
+a:hover {
+	text-decoration: none;
+	color: rgb(60,158,207);
 }
 
 .say-hello {
