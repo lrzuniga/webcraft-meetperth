@@ -147,12 +147,12 @@ A:hover
 {
 	margin-top: 75px;
 }
-/*INPUT#email.form-control
+INPUT#email.form-control
 {
  background-image: url(../images/email_icon_footer.png);
  background-repeat: no-repeat;
- text-indent: 20px;
-}*/
+ background-position: 140px;
+}
 .go-to-top
 {
 	margin-right: -135px;
