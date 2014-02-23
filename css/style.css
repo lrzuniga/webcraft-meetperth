@@ -1,164 +1,165 @@
-.container {
+.container
+{
 	padding-left: 125px;
 	padding-right: 125px;
 }
-
-.jumbotron {
+.jumbotron
+{
 	padding: 0;
 	margin-top: 0;
 	margin-bottom: 0;
 	overflow: hidden;
 }
-
-.jumbotron p {
+.jumbotron P
+{
 	font-size: 14px;
 }
-
-.header {
-	background-color: #61c0e7;
+.header
+{
+	background-color: #61C0E7;
 }
-
-.spacer-header {
+.spacer-header
+{
 	margin-top: 50px;
 	margin-bottom: -200px;
 }
-
-.spacer-after {
+.spacer-after
+{
 	margin-bottom: 100px;
 }
-
-.spacer-content {
+.spacer-content
+{
 	margin-top: 100px;
 }
-
-.heading-white {
-	color: #fff;
+.heading-white
+{
+	color: #FFF;
 }
-
-.tablet {
+.tablet
+{
 	position: absolute;
 	right: -250px;
 	top: 0;
 }
-
-.devices {
+.devices
+{
 	position: absolute;
 	left: -400px;
 	top: 50px;
 }
-
-.logo-box {
+.logo-box
+{
 	width: 90px;
 	height: 90px;
-	background-color: #fff;
+	background-color: #FFF;
 	padding-left: 30px;
 	padding-top: 23px;
 	-webkit-box-shadow: 10px 10px 0px 0px rgba(60,158,207,1);
 	-moz-box-shadow: 10px 10px 0px 0px rgba(60,158,207,1);
-	box-shadow: 10px 10px 0px 0px rgba(60,158,207,1);
+	box-shadow: 10px 10px rgba(60, 158, 207, 1);
 }
-
-.mobile-btn {
+.mobile-btn
+{
 	margin-top: 50%;
 }
-
-.mobile-container {
+.mobile-container
+{
 	margin-top: 50%;
-
 }
-
-blockquote {
-	border-left: 5px solid #708ab2;
+BLOCKQUOTE
+{
+	border-left: 5px solid #708AB2;
 }
-
-.longwind {
-	background-color: #f4f4f4;
+.longwind
+{
+	background-color: #F4F4F4;
 }
-
-.dog {
-	background-color: #fff;
+.dog
+{
+	background-color: #FFF;
 }
-
-.likesee {
-	background-color: #13c4af;
-  height: 375px;
-  color: white;
-  text-align: center;
-  vertical-align: center;
+.likesee
+{
+	background-color: #13C4AF;
+	height: 375px;
+	color: #FFFFFF;
+	text-align: center;
+	vertical-align: middle;
 }
-
-.footer {
+.footer
+{
 	margin-top: 75px;
 	margin-bottom: 60px;
-	background-color: #fff;
+	background-color: #FFF;
 }
-
-.footer p {
-  background-position: white;
-  text-align: center;
-  margin-top: 10px;
+.footer P
+{
+	background-color: #FFFFFF;
+	text-align: center;
+	margin-top: 10px;
 }
-
-a {
-	padding: 15px 40px 15px 40px;
-	border: 2px solid #fff;
+A
+{
+	padding: 15px 40px;
+	border: 2px solid #FFF;
 	text-transform: uppercase;
-	color: #fff;
+	color: #FFF;
 }
-
-a:hover {
+A:hover
+{
 	text-decoration: none;
-	color: rgb(60,158,207);
+	color: rgb(60, 158, 207);
 }
-
-.say-hello {
-	border: 2px solid #428d73;
-	color: #428d73;
+.say-hello
+{
+	border: 2px solid #428D73;
+	color: #428D73;
 }
-
-.view-dribble {
-	border: 2px solid #ea4c89;
-	color: #ea4c89;
+.view-dribble
+{
+	border: 2px solid #EA4C89;
+	color: #EA4C89;
 }
-
-.icon {
+.icon
+{
 	margin-left: 5px;
 	margin-bottom: 3px;
 }
-
-.beer {
-  color: white;
-  border-style: solid;
-  border-color: white;
-  margin: auto;
+.beer
+{
+	color: #FFFFFF;
+	border-style: solid;
+	border-color: #FFFFFF;
+	margin: auto;
 }
-.social {
-  text-align: center;
-  background-color: #f4f4f4;
-  height: 600px;
-  vertical-align: center; 
+.social
+{
+	text-align: center;
+	background-color: #B7B7BF;
+	height: 600px;
+	vertical-align: middle;
 }
-
-.vert-align {
+.vert-align
+{
 	margin-top: 25%;
 }
-
-.subscription {
+.subscription
+{
 	margin-top: 75px;
 }
-
-.go-to-top {
+/*INPUT#email.form-control
+{
+ background-image: url(../images/email_icon_footer.png);
+ background-repeat: no-repeat;
+ text-indent: 20px;
+}*/
+.go-to-top
+{
 	margin-right: -135px;
 }
-
-label {
+LABEL
+{
 	font-weight: bolder;
 	font-style: italic;
 	margin-right: 20px;
-}
-
-.email-input > a {
-	position: absolute;
-	right: 0;
-	top: 0;
 }

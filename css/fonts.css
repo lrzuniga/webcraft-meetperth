@@ -1,23 +1,12 @@
-/**
- * @file
- * The fonts for our application.
- */	
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600);
 @import url(http://fonts.googleapis.com/css?family=Dancing+Script);
-
 /**
- * The title.
+* @file
+* The fonts for our application.
+ 
+*
+* The title.
  */
-h1 {
-	font-family: 'Dancing Script', cursive;
-	font-weight: normal;
-	font-size: 3em;
-	color: #fff!important;
-	margin-top: 50px;
-}
 /**
- * Everything else.
+* Everything else.
  */
-body {
-	font-family: 'Open Sans', sans-serif;
-}
